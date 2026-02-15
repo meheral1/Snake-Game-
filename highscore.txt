@@ -1,0 +1,1 @@
+//remove this line when you run this program...this text file will hold your highscore everytime you run your game
