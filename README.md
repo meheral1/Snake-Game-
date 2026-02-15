@@ -39,3 +39,8 @@ When a collision occurs, the program uses `hideturtle()` and moves old segments 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/snake-game.git](https://github.com/your-username/snake-game.git)
+
+## Note:
+I made this code in Visual Studio Code on Python 3.12.8
+keep in mind to open the folder in which you have `highscore.txt` and `snake_game.py` on your visual studio (if you're using VS code)
+then run the program...you're free to make any changes to your liking
